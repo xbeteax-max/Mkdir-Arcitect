@@ -1,0 +1,5 @@
+{
+  "name": "MkDir Architect",
+  "description": "A high-performance visual directory structure designer. Use AI to scaffold project architectures, edit them visually, and generate production-ready bash commands.",
+  "requestFramePermissions": []
+}
